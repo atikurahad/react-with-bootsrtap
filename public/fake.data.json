@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Tanvirul Hassan",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLSKtGMWDQ43_1SKX53sKoIFBotUtJqi4wL-GUTkWA=s900-c-k-c0x00ffffff-no-rj",
+    "degree": "MBBS in Uk",
+    "possiton": "ENT specialist",
+    "phone": "+880 022657"
+  },
+  {
+    "id": 2,
+    "name": "Monwar Alam",
+    "image": "https://jewmch.com/wp-content/uploads/2021/12/Doctor-S-M-Nafiz-Imtiaz.jpg",
+    "degree": "FCPS in UK",
+    "possiton": "Cardiology",
+    "phone": "+978 6578"
+  },
+  {
+    "id": 3,
+    "name": "Jakia Haque",
+    "image": "https://cdn.pixabay.com/photo/2017/03/14/03/20/woman-2141808__340.jpg",
+    "degree": "MBBS in Malaysia",
+    "possiton": "Onocology",
+    "phone": "086 61865"
+  },
+  {
+    "id": 4,
+    "name": "Zarita Joya",
+    "image": "https://i.pinimg.com/474x/a5/b2/6b/a5b26b335cc94272b7c1878ec5b13dbd.jpg",
+    "degree": "FCPS in LONDON",
+    "possiton": "Urology",
+    "phone": "032 64339 75"
+  },
+  {
+    "id": 5,
+    "name": "Abdullah Maruf",
+    "image": "https://t4.ftcdn.net/jpg/03/20/52/31/360_F_320523164_tx7Rdd7I2XDTvvKfz2oRuRpKOPE5z0ni.jpg",
+    "degree": "MBBS in MMC",
+    "possiton": "Skin & VD",
+    "phone": "980 453 23"
+  },
+  {
+    "id": 6,
+    "name": "Araft Hossen",
+    "image": "https://media.istockphoto.com/photos/portrait-of-confident-young-medical-doctor-on-blue-background-picture-id1161336374?k=20&m=1161336374&s=612x612&w=0&h=ER2Gs06udn4kBPUy8SwLQR2su0GsRWe0kRHZvDbcQCc=",
+    "degree": "MMBS in CMC",
+    "possiton": "Medicine",
+    "phone": "223 432 976"
+  },
+  {
+    "id": 7,
+    "name": "Labib Shawon",
+    "image": "https://t4.ftcdn.net/jpg/02/69/98/99/360_F_269989951_9Gf7PWaRtrpm2EochO3D5WVn22sFZbNZ.jpg",
+    "degree": "FCPS in USA",
+    "possiton": "General Sergery",
+    "phone": "3211 456 876"
+  },
+  {
+    "id": 8,
+    "name": "Sumona Islam",
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?size=626&ext=jpg",
+    "degree": "MBBS in DMC",
+    "possiton": "Urology",
+    "phone": "232 345789"
+  },
+  {
+    "id": 9,
+    "name": "Zakia Sultana",
+    "image": "https://media.istockphoto.com/photos/portrait-female-doctor-stock-photo-picture-id1292012984?b=1&k=20&m=1292012984&s=170667a&w=0&h=yac3vqgYdx-GB40b0O-TOxvlrZv5QJRlw6CeiG_RZqI=",
+    "degree": "MBBS in SSMC",
+    "possiton": "Cardiac Surgery",
+    "phone": "846 792413"
+  },
+  {
+    "id": 10,
+    "name": "Shayela Tabassum",
+    "image": "https://image.freepik.com/free-photo/smiling-young-woman-sweater-scarf-using-tablet-pc-computer-making-video-call-isolated-grey-wall-healthy-lifestyle-online-treatment-consulting-cold-season-concept_231208-848.jpg",
+    "degree": "FCPS in China",
+    "possiton": "Neuro Surgery",
+    "phone": "223 476458"
+  },
+  {
+    "id": 11,
+    "name": "Kamrul Islam",
+    "image": "https://vader.news/__export/1620107314107/sites/gadgets/img/2021/05/04/the_good_doctor.jpg_679249217.jpg",
+    "degree": "MBBS in London",
+    "possiton": "Orthopedic",
+    "phone": "734 2876329"
+  },
+  {
+    "id": 12,
+    "image": "https://yt3.ggpht.com/ytc/AKedOLSJKUcLhD5X1PZHSauGxhafx7N2rL4sfq_KKxkb9A=s900-c-k-c0x00ffffff-no-rj",
+    "name": "Sholayman Sojib",
+    "degree": "FCPS in DDC",
+    "possiton": "Dental",
+    "phone": "653 875292"
+  }
+]
