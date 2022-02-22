@@ -1,14 +1,20 @@
-import React from 'react';
+import React from "react";
+import { Button, Card } from "react-bootstrap";
 
 const Doctor = (props) => {
- const {image,name}=props.doctor;
- const imgStyle={height:"60px", width:"50px"}
+  const { image, name, degree, possiton, phone } = props.doctor;
   return (
     <>
-      <div className="doctor">
-        <img className={imgStyle} src={image} alt="doctor" />
-        <h1>{name}</h1>
-      </div>
+      <Card style={{ width: "22rem" }} className="m-3">
+        <Card.Img variant="top" src={image} />
+        <Card.Body>
+          <Card.Title className="text-center text-danger">{name}</Card.Title>
+          <hr />
+          <Card.Text>{degree}</Card.Text>
+          <Card.Text>{possiton}</Card.Text>
+          <Button variant="primary">Visit Doctor</Button>
+        </Card.Body>
+      </Card>
     </>
   );
 };
